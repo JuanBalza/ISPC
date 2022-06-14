@@ -1,4 +1,4 @@
-#Ceremonias Scrum
+# Ceremonias Scrum
 
 Las ceremonias que se realizan a lo largo del proyecto:
 
