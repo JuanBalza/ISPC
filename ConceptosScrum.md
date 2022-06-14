@@ -15,3 +15,9 @@ _
 
 #Artefactos
 #roles
+
+# Roles:
+
+* *Product Owner (PO)*
+* *Scrum Master*
+* *Development Team*
