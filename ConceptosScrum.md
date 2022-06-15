@@ -22,17 +22,4 @@ _
 * *Scrum Master*
 * *Development Team*
 
-#Los Artefactos en Scrum
-#(Scrum Artifacts)
-#Pila del Producto (Product Backlog)
-#Pila del Sprint (Sprint Backlog)
-#Incremento (Increment)
-US3
-US 1
-US 2
-US 4
-US 1
-US 2
-US 2
-US 1
-US sprint anterior
+![artefactos](https://user-images.githubusercontent.com/104795749/173839939-46238f7b-021e-4eb6-b59b-45c96581c63c.jpg)
