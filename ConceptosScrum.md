@@ -22,4 +22,7 @@ _
 * *Scrum Master*
 * *Development Team*
 
+Artefactos de Scrum
+En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
+
 ![artefactos](https://user-images.githubusercontent.com/104795749/173839939-46238f7b-021e-4eb6-b59b-45c96581c63c.jpg)
