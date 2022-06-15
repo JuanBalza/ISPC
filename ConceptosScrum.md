@@ -21,3 +21,18 @@ _
 * *Product Owner (PO)*
 * *Scrum Master*
 * *Development Team*
+
+Los Artefactos en Scrum
+(Scrum Artifacts)
+Pila del Producto (Product Backlog)
+Pila del Sprint (Sprint Backlog)
+Incremento (Increment)
+US3
+US 1
+US 2
+US 4
+US 1
+US 2
+US 2
+US 1
+US sprint anterior
