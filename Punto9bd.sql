@@ -1,4 +1,5 @@
 CREATE DATABASE peluqueria_canina;
+
 use peluqueria_canina;
 
 create table dueno (
