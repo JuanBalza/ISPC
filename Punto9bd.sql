@@ -28,14 +28,14 @@ constraint f_perro foreign key (perro) references perro (id_perro)
 );
 
 insert into dueno (dni, nombre, apellido, direccion)
-values ('40318968', 'luciano', 'rinaudo', 'colon_123');
+values ('40318968', 'luciano', 'rinaudo', 'colon 123');
 
 insert into perro (id_perro, nombre, fecha_nac, sexo, dni_dueno)
-values ('0001', 'pedro', '2020-02-01', 'masculino', '40318968');
+values ('0001', 'pedro', '2020-02-01', 'macho', '40318968');
 
 update dueno
-set direccion = 'belgrano_333'
-where direccion = 'colon_123';
+set direccion = 'Libertad 123'
+where direccion = 'colon 123';
 
 
 
